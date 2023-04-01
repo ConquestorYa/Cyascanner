@@ -11,8 +11,7 @@
 
 `git clone https://github.com/ConquestorYa/cyascanner.git`
 
-`pip install -r requirements.txt`
-
+`cd cyascanner; pip install -r requirements.txt`
 
 
 ## Usage :carpentry_saw:
