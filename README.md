@@ -12,3 +12,10 @@
 `pip install -r requirements.txt`
 
 ## Usage :carpentry_saw:
+```bash
+python3 cya_scanner.py -i 192.168.1.1
+```
+
+```bash
+python3 cya_scanner.py -i 192.168.1.1 -p 1-5000
+```
