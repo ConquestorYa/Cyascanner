@@ -9,9 +9,11 @@
 
 `apt install python3-pip`
 
+`git clone https://github.com/ConquestorYa/cyascanner.git`
+
 `pip install -r requirements.txt`
 
-`git clone https://github.com/ConquestorYa/cyascanner.git`
+
 
 ## Usage :carpentry_saw:
 ```bash
