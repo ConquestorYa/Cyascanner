@@ -11,6 +11,8 @@
 
 `pip install -r requirements.txt`
 
+`git clone https://github.com/ConquestorYa/cyascanner.git`
+
 ## Usage :carpentry_saw:
 ```bash
 python3 cya_scanner.py -i 192.168.1.1
