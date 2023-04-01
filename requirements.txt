@@ -1,0 +1,6 @@
+sockets
+optparse-pretty
+ipaddress
+pyfiglet
+termcolor
+getmac
