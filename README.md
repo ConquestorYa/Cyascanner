@@ -7,7 +7,7 @@
 
 `sudo apt-get install python3`
 
-`apt install python3-pip`
+`sudo apt install python3-pip`
 
 `git clone https://github.com/ConquestorYa/cyascanner.git`
 
