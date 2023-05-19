@@ -135,3 +135,7 @@ parser.add_option("-i", "--ipaddress", dest="target_ip",
 parser.add_option("-p", "--port", dest="target_port",
 		  			help="Port range (example: 1-100)")
 (options, args) = parser.parse_args()
+
+define_target(options.target_ip,options.target_port)
+
+
