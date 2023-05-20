@@ -14,7 +14,7 @@
 `cd cyascanner; pip install -r requirements.txt`
 
 
-## Usage :carpentry_saw:
+## Usage 🧨:
 ```bash
 python3 cya_scanner.py -i 192.168.1.1
 ```
